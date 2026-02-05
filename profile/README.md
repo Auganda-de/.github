@@ -1,4 +1,6 @@
-<h1 align="center" id="title"><b>AUGANDA</b></h1>
+<h1 align="center" id="title">
+  <strong style="font-size: 2.8em;">Auganda 🌾</strong>
+</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/ZOZSG01.png" alt="Project Image" width="300">
