@@ -6,6 +6,8 @@
 
 <h2>Project Screenshots:</h2>
 
+![Logo](https://imgur.com/ca1Xq3t)
+
 <img src="https://imgur.com/ca1Xq3t" alt="project-screenshot" width="300" height="300/">
 
 <img src="https://imgur.com/K6BRgPI" alt="project-screenshot" width="300" height="300/">
