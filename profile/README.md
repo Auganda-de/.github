@@ -1,5 +1,5 @@
-<h1 align="center" id="title">
-  <strong style="font-size: 2.8em;">Auganda 🌾</strong>
+<h1 align="center">
+  <strong>Auganda GitHub</strong>
 </h1>
 
 <p align="center">
