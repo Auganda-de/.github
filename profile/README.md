@@ -1,9 +1,5 @@
-<h1 align="center">
-  <strong>Auganda GitHub</strong>
-</h1>
-
 <p align="center">
-  <img src="https://i.imgur.com/ZOZSG01.png" alt="Project Image" width="300">
+  <img src="https://i.imgur.com/ZOZSG01.png" alt="Project Image" width="350">
 </p>
 
 <p id="description">
